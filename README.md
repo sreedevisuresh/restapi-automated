@@ -16,9 +16,19 @@ Prerequisites:
 Eclipse IDE for Enterprise Java and Web Developers (includes Incubating components)
 Version: 2021-09 (4.21.0) Build id: 20210910-1417
 
+Java version : jdk-11.0.12
+
 How to run the test?
-Import project to your IDE.
+Import project  to your IDE.
+>Git
+>>>Projects from Git(with smart import)
+>>> Clone URI
+>>>  (https://github.com/sreedevisuresh/restapi-automated.git)
+
+follow the steps to finish
+
 Wait for dependencies to be downloaded.
+
 Run the test.
 The test can be run by selecting APITest.java - Run AS TESTNGTest
 
